@@ -1,0 +1,12 @@
+struct HelloWorld
+{
+	string msg;
+};
+
+
+
+
+
+
+
+
